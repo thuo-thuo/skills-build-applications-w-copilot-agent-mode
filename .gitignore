@@ -3,6 +3,9 @@
 # Virtual Environment
 venv
 
+# explicitly ignore the backend venv created by the agent
+/octofit-tracker/backend/venv/
+
 # octofit tracker app
 # octfit-tracker
 
